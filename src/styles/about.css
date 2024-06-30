@@ -1,0 +1,8 @@
+.herosection {
+    position: relative;
+    background: url("../assets/hero/hero1.png") no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 170px;
+    padding-bottom: 90px;
+  }
